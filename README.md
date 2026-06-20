@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Nikhil Kumar</strong> · June 2026<br/>
-  <em>SQL · Python · HTML/CSS/JS Dashboard · Strategic Analytics</em>
+  <em>SQL · Python · Modern Dashboard · Strategic Analytics</em>
 </p>
 
 ---
