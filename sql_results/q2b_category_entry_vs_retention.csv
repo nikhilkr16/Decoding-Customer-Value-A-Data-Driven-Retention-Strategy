@@ -1,0 +1,5 @@
+Category,total_customers,avg_prev_purchases,new_customers,veteran_customers,new_customer_pct,veteran_pct,avg_annual_spend,avg_loyalty
+Outerwear,324,25.0,75,73,23.1,22.5,1001.0,0.3977
+Clothing,1737,25.2,348,367,20.0,21.1,1025.0,0.3885
+Footwear,599,25.2,119,122,19.9,20.4,1086.0,0.4053
+Accessories,1240,25.7,242,285,19.5,23.0,1045.0,0.3988

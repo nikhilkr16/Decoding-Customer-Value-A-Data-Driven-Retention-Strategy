@@ -1,0 +1,23 @@
+{
+  "name": "CustomerIntelligence",
+  "dataColors": ["#818cf8", "#34d399", "#fbbf24", "#fb7185", "#94a3b8", "#c084fc", "#22d3ee"],
+  "background": "#0a0e1a",
+  "foreground": "#f1f5f9",
+  "tableAccent": "#818cf8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [{"backgroundColor": {"solid": {"color": "#0a0e1a"}}}],
+        "background": [{"show": true, "color": {"solid": {"color": "#111827"}}, "transparency": 10}],
+        "visualHeader": [{"foreground": {"solid": {"color": "#f1f5f9"}}}],
+        "title": [{"show": true, "fontColor": {"solid": {"color": "#f1f5f9"}}}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"solid": {"color": "#0a0e1a"}, "transparency": 0}],
+        "outspace": [{"solid": {"color": "#0a0e1a"}, "transparency": 0}]
+      }
+    }
+  }
+}

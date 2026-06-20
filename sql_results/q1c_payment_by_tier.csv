@@ -1,0 +1,25 @@
+value_tier,Payment Method,count
+Platinum,Cash,178
+Platinum,Credit Card,166
+Platinum,PayPal,162
+Platinum,Debit Card,159
+Platinum,Bank Transfer,157
+Platinum,Venmo,150
+Gold,Credit Card,182
+Gold,PayPal,167
+Gold,Venmo,164
+Gold,Cash,161
+Gold,Debit Card,149
+Gold,Bank Transfer,146
+Silver,Cash,180
+Silver,Debit Card,171
+Silver,PayPal,166
+Silver,Credit Card,159
+Silver,Bank Transfer,154
+Silver,Venmo,148
+Bronze,PayPal,182
+Bronze,Venmo,172
+Bronze,Credit Card,164
+Bronze,Debit Card,157
+Bronze,Bank Transfer,155
+Bronze,Cash,151

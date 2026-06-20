@@ -1,0 +1,5 @@
+region,customer_count,avg_annual_spend,total_revenue,promo_usage_pct,avg_promo_dependency,avg_loyalty,champion_pct,discount_hunter_pct
+South,1271,1066.0,1355452.0,43.6,0.152,0.4003,20.0,11.9
+West,1018,1051.0,1070141.0,43.0,0.1389,0.4021,20.2,10.5
+Northeast,674,1016.0,684528.0,40.5,0.1404,0.3787,17.8,11.7
+Midwest,937,1005.0,941708.0,44.0,0.1453,0.3924,19.0,10.6

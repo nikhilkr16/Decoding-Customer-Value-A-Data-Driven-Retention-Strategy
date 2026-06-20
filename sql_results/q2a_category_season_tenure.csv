@@ -1,0 +1,17 @@
+Category,Season,customer_count,avg_prev_purchases,avg_annual_spend,promo_usage_pct,avg_loyalty,avg_rating
+Accessories,Summer,312,26.8,1005.0,42.6,0.3996,3.77
+Footwear,Winter,140,26.7,1224.0,40.0,0.4189,3.82
+Clothing,Winter,448,26.1,1056.0,42.6,0.396,3.73
+Outerwear,Spring,81,26.0,976.0,40.7,0.3877,3.82
+Accessories,Spring,301,25.9,997.0,46.5,0.413,3.82
+Footwear,Summer,160,25.6,1052.0,45.6,0.4011,3.74
+Accessories,Winter,303,25.5,1136.0,43.6,0.3952,3.74
+Clothing,Fall,427,25.5,1012.0,35.6,0.3799,3.71
+Outerwear,Winter,80,25.2,1113.0,47.5,0.4136,3.78
+Clothing,Spring,454,24.8,1084.0,44.9,0.3967,3.76
+Accessories,Fall,324,24.7,1044.0,42.6,0.3883,3.75
+Footwear,Fall,136,24.6,1027.0,49.3,0.406,3.84
+Clothing,Summer,408,24.5,940.0,45.1,0.3801,3.68
+Outerwear,Fall,88,24.4,985.0,45.5,0.4041,3.64
+Outerwear,Summer,75,24.3,927.0,44.0,0.3841,3.76
+Footwear,Spring,163,24.2,1051.0,38.7,0.3971,3.79

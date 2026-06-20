@@ -1,0 +1,21 @@
+customer_segment,Category,count,avg_tenure,avg_spend,promo_pct
+At-Risk,Clothing,469,31.8,1276.0,41.2
+At-Risk,Accessories,340,33.6,1168.0,42.4
+At-Risk,Footwear,140,32.4,1178.0,41.4
+At-Risk,Outerwear,82,34.7,1147.0,48.8
+Casual Browsers,Clothing,644,18.0,546.0,14.1
+Casual Browsers,Accessories,463,17.6,626.0,18.1
+Casual Browsers,Footwear,218,17.0,577.0,13.3
+Casual Browsers,Outerwear,129,16.0,638.0,17.8
+Champions,Clothing,333,33.7,2176.0,53.8
+Champions,Accessories,221,33.4,2422.0,58.8
+Champions,Footwear,135,33.1,2347.0,58.5
+Champions,Outerwear,69,33.9,1946.0,56.5
+Discount Hunters,Clothing,204,12.6,399.0,100.0
+Discount Hunters,Accessories,135,12.0,388.0,100.0
+Discount Hunters,Footwear,66,12.6,491.0,100.0
+Discount Hunters,Outerwear,31,9.3,341.0,100.0
+Loyal Regulars,Clothing,87,40.0,282.0,73.6
+Loyal Regulars,Accessories,81,40.7,261.0,61.7
+Loyal Regulars,Footwear,40,38.9,274.0,67.5
+Loyal Regulars,Outerwear,13,42.1,249.0,84.6

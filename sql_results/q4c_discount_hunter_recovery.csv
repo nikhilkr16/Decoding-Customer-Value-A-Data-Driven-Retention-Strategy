@@ -1,0 +1,5 @@
+dh_subgroup,count,avg_spend,avg_loyalty,avg_prev_purchases
+Subscribed Only,206,424.0,0.2701,12.8
+Neither,132,413.0,0.1268,13.5
+Satisfied Only,87,384.0,0.2963,9.8
+Subscribed + Satisfied,11,127.0,0.3691,2.5

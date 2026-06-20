@@ -1,0 +1,6 @@
+customer_segment,total_in_segment,promo_users,promo_usage_pct,avg_spend_promo_users,avg_spend_non_promo,avg_loyalty_promo,avg_loyalty_non_promo
+Discount Hunters,436,436,100.0,405.0,,0.2344,
+Loyal Regulars,221,152,68.8,277.0,258.0,0.6105,0.5538
+Champions,758,427,56.3,2153.0,2392.0,0.6772,0.6321
+At-Risk,1031,435,42.2,1026.0,1357.0,0.4083,0.3554
+Casual Browsers,1454,227,15.6,669.0,569.0,0.4152,0.2654

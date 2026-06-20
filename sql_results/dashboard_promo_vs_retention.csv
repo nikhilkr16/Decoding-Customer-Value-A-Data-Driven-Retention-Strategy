@@ -1,0 +1,6 @@
+customer_segment,avg_promo_dependency,avg_loyalty,segment_size,promo_usage_pct,avg_spend
+At-Risk,0.0807,0.3777,1031,42.2,1217.0
+Casual Browsers,0.077,0.2888,1454,15.6,584.0
+Champions,0.0564,0.6575,758,56.3,2257.0
+Discount Hunters,0.6723,0.2344,436,100.0,405.0
+Loyal Regulars,0.1549,0.5928,221,68.8,271.0

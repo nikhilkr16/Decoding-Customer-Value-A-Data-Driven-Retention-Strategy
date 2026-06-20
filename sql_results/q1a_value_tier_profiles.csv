@@ -1,0 +1,5 @@
+value_tier,customer_count,avg_age,avg_purchase_amt,avg_annual_spend,total_revenue,revenue_pct,avg_prev_purchases,avg_annual_freq,avg_loyalty,promo_usage_pct,subscription_pct,avg_rating,satisfied_pct
+Platinum,972,43.8,73.8,2712.0,2636036.0,65.1,25.7,38.2,0.52,42.7,27.8,3.73,41.7
+Gold,969,44.1,52.1,1034.0,1002232.0,24.7,24.7,23.1,0.4262,43.2,26.5,3.78,43.7
+Silver,978,44.0,64.4,332.0,325098.0,8.0,26.2,6.6,0.3364,42.6,26.7,3.75,41.9
+Bronze,981,44.3,48.9,90.0,88463.0,2.2,24.9,2.3,0.2993,43.4,27.0,3.74,40.4

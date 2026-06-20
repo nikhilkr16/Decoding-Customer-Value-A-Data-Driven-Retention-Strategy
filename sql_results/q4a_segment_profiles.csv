@@ -1,0 +1,6 @@
+customer_segment,customer_count,pct_of_customers,total_revenue,revenue_pct,avg_annual_spend,avg_age,avg_prev_purchases,avg_annual_freq,avg_loyalty,promo_usage_pct,avg_promo_dependency,subscription_pct,avg_rating,satisfied_pct
+Champions,758,19.4,1710978.0,42.2,2257.0,44.7,33.5,37.5,0.6575,56.3,0.0564,45.6,4.11,70.8
+At-Risk,1031,26.4,1254777.0,31.0,1217.0,44.8,32.7,20.3,0.3777,42.2,0.0807,25.0,3.22,0.0
+Casual Browsers,1454,37.3,849478.0,21.0,584.0,43.5,17.5,9.8,0.2888,15.6,0.077,6.7,3.91,54.3
+Discount Hunters,436,11.2,176757.0,4.4,405.0,43.5,12.2,6.9,0.2344,100.0,0.6723,49.8,3.52,22.5
+Loyal Regulars,221,5.7,59839.0,1.5,271.0,43.3,40.2,6.5,0.5928,68.8,0.1549,60.6,4.39,95.0

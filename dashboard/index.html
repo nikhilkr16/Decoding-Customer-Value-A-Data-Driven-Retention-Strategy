@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Customer Value Intelligence Dashboard — D2C Fashion Brand Retention Strategy">
+  <title>Customer Value Intelligence | Founder Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══════════════════════ HEADER ═══════════════════════ -->
+  <header class="dashboard-header">
+    <div class="header-content">
+      <div class="header-title">
+        <h1>Customer Value Intelligence</h1>
+        <span class="subtitle">D2C Fashion Brand · Founder Dashboard · Retention Strategy</span>
+      </div>
+      <div class="header-stats">
+        <div class="header-stat">
+          <div class="stat-value" id="total-customers">3,900</div>
+          <div class="stat-label">Total Customers</div>
+        </div>
+        <div class="header-stat">
+          <div class="stat-value" id="total-revenue">$4.05M</div>
+          <div class="stat-label">Est. Annual Revenue</div>
+        </div>
+        <div class="header-stat">
+          <div class="stat-value" id="promo-rate">43%</div>
+          <div class="stat-label">Promo Dependency</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════ KPI ROW ═══════════════════════ -->
+  <div class="kpi-row">
+    <div class="kpi-card animate-in delay-1" id="kpi-champions">
+      <div class="kpi-label">Champions</div>
+      <div class="kpi-value indigo">758</div>
+      <div class="kpi-detail">19.4% of customers → 42.2% of revenue</div>
+    </div>
+    <div class="kpi-card animate-in delay-2" id="kpi-at-risk">
+      <div class="kpi-label">At-Risk Customers</div>
+      <div class="kpi-value amber">1,031</div>
+      <div class="kpi-detail">26.4% of customers → 31.0% of revenue</div>
+    </div>
+    <div class="kpi-card animate-in delay-3" id="kpi-discount-hunters">
+      <div class="kpi-label">Discount Hunters</div>
+      <div class="kpi-value rose">436</div>
+      <div class="kpi-detail">11.2% of customers → 4.4% of revenue</div>
+    </div>
+    <div class="kpi-card animate-in delay-4" id="kpi-loyalty-winner">
+      <div class="kpi-label">Loyalty Model Winner</div>
+      <div class="kpi-value emerald">Def. A</div>
+      <div class="kpi-detail">Behavior-Weighted (r = 0.465 with spend)</div>
+    </div>
+    <div class="kpi-card animate-in delay-5" id="kpi-avg-satisfaction">
+      <div class="kpi-label">Avg Satisfaction</div>
+      <div class="kpi-value cyan">3.75</div>
+      <div class="kpi-detail">41.9% rated ≥ 4.0 (satisfied)</div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════ FOUR-PANEL GRID ═══════════════════════ -->
+  <div class="dashboard-grid">
+
+    <!-- ──── PANEL 1: Customer Pyramid ──── -->
+    <div class="panel animate-in delay-1" id="panel-pyramid">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">Customer Value Pyramid</div>
+          <div class="panel-subtitle">How value is distributed across the customer base</div>
+        </div>
+        <span class="panel-badge">Revenue Concentration</span>
+      </div>
+      <div class="pyramid-container" id="pyramid-chart"></div>
+    </div>
+
+    <!-- ──── PANEL 2: Promo Dependency vs Retention ──── -->
+    <div class="panel animate-in delay-2" id="panel-scatter">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">Promo Dependency vs. Loyalty</div>
+          <div class="panel-subtitle">Who needs discounts to buy and who doesn't</div>
+        </div>
+        <span class="panel-badge">Segment Analysis</span>
+      </div>
+      <div class="scatter-container" id="scatter-chart">
+        <div class="scatter-y-label">← Loyalty Score →</div>
+        <div class="scatter-x-label">← Promo Dependency →</div>
+        <div class="scatter-axes" id="scatter-axes"></div>
+      </div>
+    </div>
+
+    <!-- ──── PANEL 3: Geographic Opportunity Map ──── -->
+    <div class="panel animate-in delay-3" id="panel-geo">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">Geographic Opportunity Map</div>
+          <div class="panel-subtitle">Regions with genuine brand pull vs. discount-driven demand</div>
+        </div>
+        <span class="panel-badge">Hidden Gems</span>
+      </div>
+      <div class="geo-container" id="geo-chart"></div>
+    </div>
+
+    <!-- ──── PANEL 4: Category Funnel ──── -->
+    <div class="panel animate-in delay-4" id="panel-funnel">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">Category Retention Funnel</div>
+          <div class="panel-subtitle">Entry-point vs. retention categories by purchase history</div>
+        </div>
+        <span class="panel-badge">Category Mix</span>
+      </div>
+      <div class="funnel-container" id="funnel-chart"></div>
+    </div>
+
+  </div>
+
+  <!-- ═══════════════════════ SEGMENT DETAIL ═══════════════════════ -->
+  <div class="segment-section">
+    <div class="segment-section-title">Customer Segment Deep Dive</div>
+    <div class="segment-cards" id="segment-cards"></div>
+  </div>
+
+  <!-- ═══════════════════════ ICP SECTION ═══════════════════════ -->
+  <div class="icp-section">
+    <div class="segment-section-title">Ideal Customer Profile (ICP)</div>
+    <div class="icp-card" id="icp-card">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">The Brand's Most Valuable Customer</div>
+          <div class="panel-subtitle">Data-backed composite — specific enough for marketing targeting today</div>
+        </div>
+        <span class="panel-badge">Platinum + Gold, High Loyalty</span>
+      </div>
+      <div class="icp-grid" id="icp-grid"></div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+  <footer class="dashboard-footer">
+    <span>Customer Value Intelligence · SQL-Driven Retention Strategy</span>
+    <span>Data: 3,900 customers · 18 variables · Analysis Date: June 2026</span>
+  </footer>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
