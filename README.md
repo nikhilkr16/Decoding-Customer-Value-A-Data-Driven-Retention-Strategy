@@ -1,4 +1,4 @@
-<img width="1800" height="606" alt="image" src="https://github.com/user-attachments/assets/73c8d0f6-15b6-4cf1-bdc2-e3c30c219535" /># Executive Summary
+# Executive Summary
 
 **Project**: Decoding Customer Value — A SQL-Driven Retention Strategy  
 **Prepared by**: Nikhil Kumar  
@@ -9,7 +9,7 @@
 <img width="1820" height="731" alt="image" src="https://github.com/user-attachments/assets/f8e2010f-29d8-403f-a6de-bc7c623b3d95" />
 <img width="1800" height="606" alt="image" src="https://github.com/user-attachments/assets/232c7eb1-fc92-4bb8-b9b0-5b3ed8dd235a" />
 <img width="1803" height="647" alt="image" src="https://github.com/user-attachments/assets/b95771c5-4e7a-4439-8263-cdf46e3c25c0" />
-
+<img width="1800" height="606" alt="image" src="https://github.com/user-attachments/assets/73c8d0f6-15b6-4cf1-bdc2-e3c30c219535" />
 
 
 ## The Question
